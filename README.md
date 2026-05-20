@@ -6,6 +6,8 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IZ0atnjOWi0o12ZCs08se3yJgIMACbTe)
 
+https://drive.google.com/drive/folders/1DPVb5nO0JwZMxCC3br5sZHZqKjWo1wjy?usp=sharing
+
 ---
 
 ## 📘 Project Overview
