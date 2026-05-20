@@ -4,7 +4,7 @@
 
 ## 🔗 Google Colab Notebook
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1IZ0atnjOWi0o12ZCs08se3yJgIMACbTe/view?usp=sharing)
+[[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1IZ0atnjOWi0o12ZCs08se3yJgIMACbTe/view?usp=sharing)](https://drive.google.com/file/d/1IZ0atnjOWi0o12ZCs08se3yJgIMACbTe/view?usp=sharing)
 
 **Direct Link:** https://drive.google.com/file/d/1IZ0atnjOWi0o12ZCs08se3yJgIMACbTe/view?usp=sharing
 
